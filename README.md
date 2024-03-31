@@ -54,6 +54,6 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 ## Contact
 
-For any inquiries or support related to Aahvan-2k23, please contact bhattdhanya65@gmail.com(mailto:bhattdhanya65@gmail.com).
+For any inquiries or support related to Aahvan-2k23, please contact [bhattdhanya65@gmail.com](mailto:bhattdhanya65@gmail.com).
 
 Enjoy Aahvan-2k23! 🎉
