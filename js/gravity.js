@@ -343,8 +343,8 @@ Particle.prototype = (function (o) {
 (function () {
   // Configs
 
-  // var BACKGROUND_COLOR      = 'rgba(11, 51, 56, 1)',
-  var BACKGROUND_COLOR = "rgb(40, 40, 43)",
+  var BACKGROUND_COLOR      = 'rgba(11, 51, 56, 1)',
+  //var BACKGROUND_COLOR = "rgb(40, 40, 43)",
     PARTICLE_RADIUS = 1,
     G_POINT_RADIUS = 10,
     G_POINT_RADIUS_LIMITS = 65;
@@ -374,7 +374,7 @@ Particle.prototype = (function (o) {
     context = canvas.getContext("2d");
     bufferCtx = bufferCvs.getContext("2d");
 
-    var cx = canvas.width * 1.5,
+    /* var cx = canvas.width * 1.5,
       cy = canvas.height * 1.5;
 
     grad = context.createLinearGradient(
@@ -387,7 +387,7 @@ Particle.prototype = (function (o) {
 
     grad.addColorStop(0, "rgb(59,9,62)");
     grad.addColorStop(1, "rgb(14,184,184)");
-  }
+  } */
 
   function mouseMove(e) {
     mouse.set(e.clientX, e.clientY);
